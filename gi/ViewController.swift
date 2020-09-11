@@ -15,6 +15,9 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
+    func testData(ins:String){
+        print(ins)
+    }
 
 }
 
